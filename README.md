@@ -31,7 +31,7 @@ API (Application Programming Interface) is a set of rules or protocols for build
 
 ## Code Implementation
 
-### Add this Class
+### Add WeatherResponse class in model package
 
 ```java
 package com.example.weather_app.model;
@@ -77,8 +77,9 @@ public class WeatherResponse {
     }
 }
 
-## WeatherController Logic
 
+### WeatherController Logic
+```java
 @GetMapping("/weather")
 public String getWeather(@RequestParam("city") String city, Model model) {
     // Define the URL for the API request
