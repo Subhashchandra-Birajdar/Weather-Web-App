@@ -77,8 +77,8 @@ public class WeatherResponse {
     }
 }
 
-
 ### WeatherController Logic
+
 ```java
 @GetMapping("/weather")
 public String getWeather(@RequestParam("city") String city, Model model) {
@@ -103,5 +103,3 @@ public String getWeather(@RequestParam("city") String city, Model model) {
     }
     return "weather"; // Return weather.html
 }
-
-
