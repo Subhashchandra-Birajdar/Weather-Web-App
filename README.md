@@ -1,7 +1,8 @@
 # Weather App Project
 
 ## Project Overview
-This project has been cloned into the specified path. It utilizes the following technologies:
+Weather updates based on city
+It utilizes the following technologies:
 
 ### Tools and Technologies Used
 1. HTML
