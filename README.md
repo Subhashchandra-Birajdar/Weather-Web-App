@@ -21,7 +21,7 @@ It utilizes the following technologies:
 - Library for JSON serialization and deserialization.
 
 ## Application Details
-- The application is running on **localhost:8080**.
+- The application is running on **localhost:8080/**.
 - When you access it, it will go to **index.html**.
 
 ## API
