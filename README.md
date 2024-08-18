@@ -21,8 +21,8 @@ It utilizes the following technologies:
 - Library for JSON serialization and deserialization.
 
 ## Application Details
-- The application is running on **localhost:8080/**.
-- When you access it, it will go to **index.html**.
+- The application is running on **localhost:8080/**
+- When you access it, it will go to **index.html**
 
 ## API
 API (Application Programming Interface) is a set of rules or protocols for building and interacting with software applications. It acts as a middleware layer that allows different software components to communicate with each other.
